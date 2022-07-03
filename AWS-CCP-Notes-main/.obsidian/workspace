@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "eea0196311905477",
+    "type": "split",
+    "children": [
+      {
+        "id": "3559b5f83410c0f0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AWS CCP/A Cloud Guru/Chapter 2 - Cloud Concepts & Technology.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7644b8dade3a3bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "a787526046eacc31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3116f877997e11a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c4667525bb6f5c38",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "sneaky",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0c3292b73339fd97",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca3c43e2cb4a3a8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8174899c41138cc7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS CCP/A Cloud Guru/Chapter 2 - Cloud Concepts & Technology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3559b5f83410c0f0",
+  "lastOpenFiles": [
+    "AWS CCP/A Cloud Guru/Chapter 2 - Cloud Concepts & Technology.md",
+    "AWS CCP/A Cloud Guru/Chapter 4 - Security In The Cloud.md",
+    "AWS CCP/A Cloud Guru/Chapter 1 - Introduction.md",
+    "AWS CCP/AWS CCP Index.md",
+    "AWS CCP/CCP Exam Details.md",
+    "README.md",
+    "AWS CCP/A Cloud Guru/Chapter 5 - Mega Quiz.md",
+    "AWS CCP/A Cloud Guru/Chapter 4 Quiz.md",
+    "AWS CCP/A Cloud Guru/Chapter 3 Quiz.md",
+    "AWS CCP/A Cloud Guru/Chapter 2 Quiz.md"
+  ]
+}

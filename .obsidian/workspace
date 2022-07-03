@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "f224d681432f04a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b951fb643a563e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AWS-SolutionsArchitect/Index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "d259866065c611d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "AWS-SolutionsArchitect/Index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce81b126b102f55f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4004cd2090d18dcc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5faa78b80ae71e88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "41b7d8fe392df4ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3e028370b5d9166",
+    "type": "split",
+    "children": [
+      {
+        "id": "40374700ef0da964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50ca436e08ea8097",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AWS-SolutionsArchitect/Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d259866065c611d0",
+  "lastOpenFiles": [
+    "AWS-SolutionsArchitect/Index.md",
+    "AWS-SolutionsArchitect/Exam Format.md",
+    "AWS-CCP-Notes-main/README.md",
+    "AWS-CCP-Notes-main/AWS CCP/AWS CCP Index.md"
+  ]
+}
