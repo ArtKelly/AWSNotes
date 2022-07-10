@@ -14,18 +14,6 @@
             "source": false
           }
         }
-      },
-      {
-        "id": "d259866065c611d0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "AWS-SolutionsArchitect/Index.md",
-            "mode": "source",
-            "source": false
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -91,13 +79,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "d0f6006cacd50eb6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "2b951fb643a563e5",
   "lastOpenFiles": [
