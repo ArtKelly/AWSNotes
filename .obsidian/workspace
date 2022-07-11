@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS-SolutionsArchitect/Index.md",
+            "file": "AWS-SolutionsArchitect/Chapters/Identity and Access Management S3.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS-SolutionsArchitect/Index.md",
+                "file": "AWS-SolutionsArchitect/Chapters/Identity and Access Management S3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "2b951fb643a563e5",
   "lastOpenFiles": [
+    "AWS-SolutionsArchitect/Chapters/Identity and Access Management S3.md",
     "AWS-SolutionsArchitect/Index.md",
     "AWS-SolutionsArchitect/Exam Format.md",
     "AWS-CCP-Notes-main/README.md",
