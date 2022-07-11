@@ -11,7 +11,8 @@
 
 ### Content
 
-- [[Identity and Access Management S3]]
+- [[Identity and Access Management]]
+- [[S3]]
 - [[EC2]]
 - [[Databases on AWS]]
 - [[Advanced IAM]]
@@ -25,7 +26,7 @@
 Test
 
 - [ ] Watch all Content
-	- [ ] Identity and Access Management S3
+	- [x] Identity and Access Management
 	- [ ] EC2
 	- [ ] Databases on AWS
 	- [ ] Advanced IAM

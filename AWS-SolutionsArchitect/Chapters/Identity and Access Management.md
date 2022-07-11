@@ -17,5 +17,3 @@
 - Always setup password rotations
 - IAM Federation: You can combine your existing user account with AWS. e.g. when you login to windows using Active Directory, you can use the same credentials to log into AWS if you setup federation
 - Identity Federation: Uses the SAML standard, which is active directory
-
-## Review
