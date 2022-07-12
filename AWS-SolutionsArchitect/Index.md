@@ -27,6 +27,7 @@ Test
 
 - [ ] Watch all Content
 	- [x] Identity and Access Management
+	- [ ] S3
 	- [ ] EC2
 	- [ ] Databases on AWS
 	- [ ] Advanced IAM
