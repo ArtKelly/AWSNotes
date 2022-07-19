@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS-SolutionsArchitect/Chapters/EC2.md",
+            "file": "AWS-SolutionsArchitect/Chapters/S3.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS-SolutionsArchitect/Chapters/EC2.md",
+                "file": "AWS-SolutionsArchitect/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,11 +99,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6950ad786d3f76b8",
+  "active": "5ef601e2955dd4e4",
   "lastOpenFiles": [
-    "AWS-SolutionsArchitect/Index.md",
     "AWS-SolutionsArchitect/Chapters/S3.md",
     "AWS-SolutionsArchitect/Chapters/EC2.md",
+    "AWS-SolutionsArchitect/Index.md",
     "AWS-SolutionsArchitect/Chapters/Identity and Access Management.md",
     "AWS-SolutionsArchitect/Exam Format.md",
     "AWS-CCP-Notes-main/README.md",

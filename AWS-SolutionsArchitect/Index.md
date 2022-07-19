@@ -23,6 +23,8 @@
 - [[Security]]
 - [[Serverless]]
 
+docker build https://gitlab.com/gitlab-org/terraform-images.git --build-arg BASE_IMAGE=gitlab/gitlab-runner:alpine --build-arg TARGETARCH=amd64 --build-arg TERRAFORM_BINARY_VERSION=1.2.5 -t gitlabterraform:latest
+
 Test
 
 - [ ] Watch all Content
