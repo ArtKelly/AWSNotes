@@ -56,4 +56,6 @@
 
 ### CLI
 - interact with aws using the command line
+- User groups for security
 
+### Using Roles
