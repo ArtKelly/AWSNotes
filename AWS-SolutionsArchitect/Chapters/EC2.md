@@ -59,3 +59,18 @@
 - User groups for security
 
 ### Using Roles
+- Preferred from a security perspective
+- Avoid hard coding credentials
+- Policies control a roles permissions
+- You can update a policy and it will take immediate effect
+- You can attach and detach roles to running ec2 instances 
+
+### Security groups and bootstrap scripts
+- Virtual firewalls for your EC2 instance. 
+	- by default all inbound traffic is blocked
+- To let everything in: 0.0.0.0/0
+- Bootstrap script runs when the instance first runs
+- You can have any number of EC2 instances within a security group
+- You can have multiple security groups attached to an EC2
+- By default all outbound traffic is allowed
+- 
