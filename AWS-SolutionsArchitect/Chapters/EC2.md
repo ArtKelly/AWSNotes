@@ -73,3 +73,4 @@
 - You can have any number of EC2 instances within a security group
 - You can have multiple security groups attached to an EC2
 - By default all outbound traffic is allowed
+
