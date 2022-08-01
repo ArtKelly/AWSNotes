@@ -95,7 +95,7 @@
 	- Faster + Lower latency
 	- OS bypass
 
-### Optimising EC2 with Placement
+### Optimising EC2 with Placement groups
 - Cluster
 	- Grouping of instances within a single availability zone. recommended for applications that need low network latency, high network throughput, or both
 - Spread
@@ -103,3 +103,20 @@
 	- For applications  that have a small number o f critical instances that should be kept separate from each other.
 - Partition
 	- Each partition group has its own set of racks. Each rack has its own network and power source. 
+- A cluster placement group can't span multiple availability zones, whereas, a spread placement group and partition placement group can.
+- Only certain types of instances can be launched in a placement group (Compute optimised, GPU, Memory optimised, storage optimised)
+- AWS recommends homogenous instances within cluster placement groups
+- You can't merge placement groups
+- You can move an existing instance into a placement group. Before you move the instance, the instance must be in the stopped state. You can move or remove an instance using the AWS Cli or an AWS SDK, but you can't do it via the console yet.
+
+### Solving licensing issues with dedicated hosts
+- Any question about special licensing requirements will require a dedicated host.
+- Dedicated hosts allow you to use your existing per-socket, per-core, or per-VM software licenses.
+
+### Timing workloads with spot instances and spot fleets
+- Spot block to stop your spot instances from being terminated even if the spot price goes over your max price.
+- A spot fleet is a collection of spot instances and on-demand instances(optional)
+- Try and match the target capacity with price restraints
+- Define EC2 instance types
+- You can have multiple pools, and the fleet will choose the best way
+- capacity optimised, lowest price, diversified, instancePoolsToUseCount
