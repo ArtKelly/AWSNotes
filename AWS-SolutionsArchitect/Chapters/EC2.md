@@ -74,3 +74,32 @@
 - You can have multiple security groups attached to an EC2
 - By default all outbound traffic is allowed
 
+### Networking
+- ENI (Elastic Network interface)
+	- Simply a virtual network card
+	- private ipv4, public ipv4, many ivp6. Mac address, 1 or more security groups
+	- Uses:
+		- Create a management network
+		- Use network and security appliances in your vpc
+		- Create dual-homed instances with workloads / roles on distinct subnets
+		- create a low budget, high availability solution
+- EN (Enhanced networking)
+	- For High performance Networking between 10Gb/s - 100Gb/s
+	- Single root I/O virtualisation
+	- higher bandwidth, lower latency
+	- ENA (Elastic network adapter) - 100Gb/s
+	- INTEL82599 VFI - 10Gb/s, for older instances
+- EFA (Elastic Fabric Adapter)
+	- A network device you can attach to your Amazon EC2 instance to accelerate high performance computing and machine learning applications.
+	- Provides lower and more consistant latency and higher throughput than the TCP transport traditionally used in cloud-based systems
+	- Faster + Lower latency
+	- OS bypass
+
+### Optimising EC2 with Placement
+- Cluster
+	- Grouping of instances within a single availability zone. recommended for applications that need low network latency, high network throughput, or both
+- Spread
+	- A group of instances that are placed on distinct underlying hardware
+	- For applications  that have a small number o f critical instances that should be kept separate from each other.
+- Partition
+	- Each partition group has its own set of racks. Each rack has its own network and power source. 
