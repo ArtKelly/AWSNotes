@@ -14,6 +14,7 @@
 - [[Identity and Access Management]]
 - [[S3]]
 - [[EC2]]
+- [[EBS]]
 - [[Databases on AWS]]
 - [[Advanced IAM]]
 - [[Route 53]]
@@ -30,7 +31,7 @@ Test
 - [ ] Watch all Content
 	- [x] Identity and Access Management
 	- [x] S3
-	- [ ] EC2
+	- [x] EC2
 	- [ ] Databases on AWS
 	- [ ] Advanced IAM
 	- [ ] Route 53
