@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS-SolutionsArchitect/Index.md",
+            "file": "AWS-SolutionsArchitect/Chapters/EBS.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Automation.md",
+                "file": "AWS-SolutionsArchitect/Chapters/EBS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +99,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "96cbad45d3e42885",
+  "active": "f2cdf19bb837c873",
   "lastOpenFiles": [
     "AWS-SolutionsArchitect/Index.md",
+    "Automation.md",
     "AWS-SolutionsArchitect/Chapters/EBS.md",
     "AWS-SolutionsArchitect/Chapters/EC2.md",
     "AWS-SolutionsArchitect/Chapters/S3.md",
@@ -109,7 +110,6 @@
     "AWS-SolutionsArchitect/Chapters/HA Architecture.md",
     "AWS-SolutionsArchitect/Chapters/Advanced IAM.md",
     "AWS-CCP-Notes-main/AWS CCP/A Cloud Guru/Chapter 3 - Billing & Pricing.md",
-    "AWS-SolutionsArchitect/Chapters/Identity and Access Management.md",
-    "AWS-SolutionsArchitect/Exam Format.md"
+    "AWS-SolutionsArchitect/Chapters/Identity and Access Management.md"
   ]
 }
