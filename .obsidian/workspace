@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AWS-SolutionsArchitect/Chapters/EBS.md",
+            "file": "AWS-SolutionsArchitect/Index.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AWS-SolutionsArchitect/Chapters/EBS.md",
+                "file": "AWS-SolutionsArchitect/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,12 +101,12 @@
   },
   "active": "f2cdf19bb837c873",
   "lastOpenFiles": [
+    "AWS-SolutionsArchitect/Chapters/Route 53.md",
     "AWS-SolutionsArchitect/Index.md",
-    "Automation.md",
     "AWS-SolutionsArchitect/Chapters/EBS.md",
+    "Automation.md",
     "AWS-SolutionsArchitect/Chapters/EC2.md",
     "AWS-SolutionsArchitect/Chapters/S3.md",
-    "AWS-SolutionsArchitect/Chapters/Route 53.md",
     "AWS-SolutionsArchitect/Chapters/HA Architecture.md",
     "AWS-SolutionsArchitect/Chapters/Advanced IAM.md",
     "AWS-CCP-Notes-main/AWS CCP/A Cloud Guru/Chapter 3 - Billing & Pricing.md",
