@@ -8,41 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2cdf19bb837c873",
+            "id": "058a82caf6a0487c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "AWS-SolutionsArchitect/Chapters/EBS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "058a82caf6a0487c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "121770076dae84fa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "96cbad45d3e42885",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Automation.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,15 +97,15 @@
   },
   "active": "058a82caf6a0487c",
   "lastOpenFiles": [
-    "Whois.md",
-    "AWS-SolutionsArchitect/Index.md",
     "AWS-SolutionsArchitect/Chapters/Route 53.md",
-    "AWS-SolutionsArchitect/Chapters/EBS.md",
-    "Automation.md",
-    "AWS-SolutionsArchitect/Chapters/EC2.md",
     "AWS-SolutionsArchitect/Chapters/S3.md",
+    "AWS-SolutionsArchitect/Index.md",
+    "AWS-SolutionsArchitect/Chapters/Automation.md",
+    "AWS-CCP-Notes-main/AWS CCP/AWS CCP Index.md",
+    "AWS-SolutionsArchitect/Chapters/EBS.md",
+    "AWS-SolutionsArchitect/Chapters/EC2.md",
+    "Whois.md",
     "AWS-SolutionsArchitect/Chapters/HA Architecture.md",
-    "AWS-SolutionsArchitect/Chapters/Advanced IAM.md",
-    "AWS-CCP-Notes-main/AWS CCP/A Cloud Guru/Chapter 3 - Billing & Pricing.md"
+    "AWS-SolutionsArchitect/Chapters/Advanced IAM.md"
   ]
 }
