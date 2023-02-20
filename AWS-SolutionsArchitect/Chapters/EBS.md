@@ -1,4 +1,4 @@
-ub# Elastic Block store 
+u# Elastic Block store 
 Storage volumes for EC2
 
 
