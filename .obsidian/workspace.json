@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "86a700fe2c88ecfd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +110,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e09e8bf27d45ad79",
+  "active": "86a700fe2c88ecfd",
   "lastOpenFiles": [
     "GMP Spear phishing.md",
     "README.md",
