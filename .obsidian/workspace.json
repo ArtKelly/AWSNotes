@@ -19,14 +19,26 @@
             "id": "86a700fe2c88ecfd",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AWS-SolutionsArchitect/Chapters/EBS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28caf61593540fbe",
+            "type": "leaf",
+            "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.1.16"
+                "currentVersion": "1.2.8"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -63,6 +75,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "7afc6fe0f10b33b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -84,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AWS-SolutionsArchitect/Chapters/EBS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,8 +131,9 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "86a700fe2c88ecfd",
+  "active": "28caf61593540fbe",
   "lastOpenFiles": [
+    "AWS-SolutionsArchitect/Chapters/EC2.md",
     "GMP Spear phishing.md",
     "README.md",
     "Whois.md",
@@ -120,7 +142,6 @@
     "AWS-SolutionsArchitect/Chapters/Advanced IAM.md",
     "AWS-SolutionsArchitect/Chapters/VPCs.md",
     "AWS-SolutionsArchitect/Chapters/Route 53.md",
-    "AWS-SolutionsArchitect/Chapters/Serverless.md",
-    "AWS-SolutionsArchitect/Chapters/EC2.md"
+    "AWS-SolutionsArchitect/Chapters/Serverless.md"
   ]
 }
