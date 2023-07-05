@@ -31,9 +31,11 @@
             "id": "28caf61593540fbe",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.2.8"
+                "file": "AWS-SolutionsArchitect/Chapters/EBS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -134,6 +136,9 @@
   "active": "28caf61593540fbe",
   "lastOpenFiles": [
     "AWS-SolutionsArchitect/Chapters/EC2.md",
+    "AWS-SolutionsArchitect/Chapters/Serverless.md",
+    "Untitled.canvas",
+    "AWS-SolutionsArchitect/Chapters/EBS.md",
     "GMP Spear phishing.md",
     "README.md",
     "Whois.md",
@@ -141,7 +146,6 @@
     "AWS-SolutionsArchitect/Chapters/Databases on AWS.md",
     "AWS-SolutionsArchitect/Chapters/Advanced IAM.md",
     "AWS-SolutionsArchitect/Chapters/VPCs.md",
-    "AWS-SolutionsArchitect/Chapters/Route 53.md",
-    "AWS-SolutionsArchitect/Chapters/Serverless.md"
+    "AWS-SolutionsArchitect/Chapters/Route 53.md"
   ]
 }
