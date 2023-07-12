@@ -38,9 +38,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d28c3e61d343d76",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +143,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "28caf61593540fbe",
+  "active": "1d28c3e61d343d76",
   "lastOpenFiles": [
     "AWS-SolutionsArchitect/Chapters/EC2.md",
     "AWS-SolutionsArchitect/Chapters/Serverless.md",
